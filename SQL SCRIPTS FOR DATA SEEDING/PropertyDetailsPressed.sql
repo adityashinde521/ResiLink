@@ -1,0 +1,2 @@
+INSERT INTO Property (Id, Name, PropertyTypeId, FurnishingTypeId, Price, BHK, BuiltArea, CityId, ReadyToMove, CarpetArea, Address, Address2, FloorNo, TotalFloors, MainEntrance, Security, Gated, Maintenance, EstPossessionOn, Age, Description)
+VALUES ('12345678-1234-1234-1234-123456789012', 'Sample Property', '87654321-4321-4321-4321-210987654321', '98765432-5678-5678-5678-123456789012', 150000, 2, 1000, '98765432-1234-1234-1234-210987654321', 1, 800, '123 Main Street', 'Apartment 456', 5, 10, 'Front Door', 2, 1, 500, '2023-06-30', 5, 'This is a sample property description.');

@@ -1,0 +1,5 @@
+INSERT INTO FurnishingType (Id, Name)
+VALUES
+    ('{D4E6692D-98F3-4B63-AF7A-4F0B39DABEAB}', 'FullyFurnished'),
+    ('{E4B513EC-C549-4D8B-B10E-BAF0CE8227D3}', 'SemiFurnished'),
+    ('{EB6A1DE6-F992-4A5B-A2FF-7EF2180D6C36}', 'UnFurnished');
